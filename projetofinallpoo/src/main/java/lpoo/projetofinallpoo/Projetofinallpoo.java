@@ -14,5 +14,3 @@ public class Projetofinallpoo {
         System.out.println("Hello World!");
     }
 }
-
-//um dos maiores de todos os tempos meu penis
