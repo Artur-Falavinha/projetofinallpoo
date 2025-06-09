@@ -14,5 +14,3 @@ public class Projetofinallpoo {
         System.out.println("Hello World!");
     }
 }
-
-//the ready ta the not
